@@ -1,7 +1,7 @@
 
 import streamlit as st
 from PIL import Image
-
+from safety_engine import analyze_message
 # ============================================================
 # SAFEGUARD AI — UI CONFIGURATION
 # ============================================================
